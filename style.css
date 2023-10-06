@@ -131,6 +131,7 @@
   flex-direction: column;
   padding: 50px;
   background-color: grey;
+  clear:flex;
   
 
 }
